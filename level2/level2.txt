@@ -1,0 +1,32 @@
+JavaScript MA03
+----------------
+Level 2
+1. In your own words, describe what JavaScript Code Style is.
+Javascript code style is when you follow a set of set rules norms when you write your code. A good example of this is if you work in a team you set the rule that all end curly braces should have its own newline. While this has no impact on the programs preformance it can make the code easier to read for both you and other developers. 
+
+2. What is a Regular Expression?
+A regular Expression in javascript is an object. It is a set of charecters that is used as a search pattern to compare strings. It also as a set of pre defined functions that can be called to do text replace, find and so on.
+
+3. What does the .random() method do?
+It returns a random number between 0 and 1.
+
+4. What does the .sort() method do?
+Sorts an array in alphabetic and ascending order.
+
+5. What does the .reverse() method do?
+Returns a reversed sequence of the specified array.
+
+6. List two examples of bad JavaScript code.
+var a = 2; //naming.
+
+var check = 2 == 2;  //no type check.
+
+
+7. What data types can a JSON object contain?
+numbers, objects, arrays, booleans, strings and null	
+
+8. What is minifying JavaScript Code?
+Taking away unused code, writing smaller code, removing redundant data without affecting how the code works.
+
+9. What is a global variable?
+a variable with a global scope. This variable can be used by all functions and scripts that runs on the current webpage.
